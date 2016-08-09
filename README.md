@@ -1,4 +1,4 @@
-# JavaScript-Tricks
+# JS Tricks
 JavaScript tricks and shenanigans
 
 * [Array remove nth last item](js/array-nth-last.js)
