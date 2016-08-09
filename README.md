@@ -6,3 +6,4 @@ JavaScript tricks and shenanigans
 * [Console log](js/console-log.js)
 * [Faster Math.floor()](js/faster-math-floor.js)
 * [Swap 2 variables](js/swap-two-variables.js)
+* [Find a substring in an array](http://adam.merrifield.ca/2016/08/08/find-a-substring-in-a-javascript-array/)
